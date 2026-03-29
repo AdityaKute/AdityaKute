@@ -36,36 +36,41 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[Gentree](https://github.com/AdityaKute/Gentree)** | A modern family tree visualization and management tool designed for intuitive data handling. | React.js, Node.js, MongoDB |
 | **[RMGS Website](https://github.com/AdityaKute/rmgs-website)** | A professional web solution focused on performance, usability, and clean architecture. | React.js, JavaScript, CSS |
 | **[IDS-IPS System](https://github.com/AdityaKute/IDS-IPS)** | A security-focused repository showcasing API development and network monitoring logic. | Python, FastAPI, API Security |
 
 ---
 
 ### 📈 Freelance Impact & Experience
-* **Performance Optimization:** Engineered 5+ custom React.js projects, reducing load times by **1.3s**.
-* **User Retention:** Improved engagement metrics, leading to a **7% decrease in bounce rate**.
-* **Full-Lifecycle Management:** Handled everything from client requirements to cloud deployment.
+* ⚡ **Performance Optimization:** Engineered 5+ custom React.js projects, reducing load times by **1.3s**.
+* 📉 **User Retention:** Improved engagement metrics, leading to a **7% decrease in bounce rate**.
+* 🌐 **Full-Lifecycle Management:** Handled everything from client requirements to cloud deployment.
 
 ---
 
-### 📊 Most Used Languages
+### 📊 Coding Activity & Stats
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdityaKute&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKute&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/aditya-kute-470558250/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:adityakute1305@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
----
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=AdityaKute&label=Profile%20Views&color=0e75b6&style=flat" alt="AdityaKute" /> 
 </p>
