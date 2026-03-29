@@ -20,13 +20,13 @@
 
 **Languages & Core Tech** <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,html,css,sql,react,nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=js,java,python,html,css,postgres,react,nodejs,mongodb" />
   </a>
 </p>
 
 **Frameworks, Databases & Tools** <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,jquery,mysql,wordpress,git,github,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=spring,maven,express,fastapi,mysql,git,github,vscode,postman" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Gentree](https://github.com/AdityaKute/Gentree)** | A modern family tree visualization and management tool designed for intuitive data handling. | React.js, Node.js, MongoDB |
+| **[Gentree](https://github.com/AdityaKute/Gentree)** | A modern family tree visualization tool featuring a robust Spring Boot backend and intuitive React interface. | Java, Spring Boot, PostgreSQL, React |
 | **[RMGS Website](https://github.com/AdityaKute/rmgs-website)** | A professional web solution focused on performance, usability, and clean architecture. | React.js, JavaScript, CSS |
 | **[IDS-IPS System](https://github.com/AdityaKute/IDS-IPS)** | A security-focused repository showcasing API development and network monitoring logic. | Python, FastAPI, API Security |
 
